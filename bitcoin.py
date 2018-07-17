@@ -8,7 +8,7 @@ from win10toast import ToastNotifier
 toaster = ToastNotifier()
 temp = "tmpbuy"
 icon_path = 'bitcoin.ico'
-
+#test
 
 def write_data(data): #wriing data to file
     file = open (temp , "w+")
